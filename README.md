@@ -28,7 +28,7 @@ The above hyperparameters are randomly selected from the given values for 100 it
 | 9      | rbf    | 6 | auto  | 4      | 0.963833 |
 | 10     | rbf    | 7 | auto  | 5      | 0.968667 |
 
-The following Convergence graph shows the accuracy of sample 8 (maximum accuracy) over the 100 iterations:
+The following Convergence graph shows the accuracy of sample 2 (maximum accuracy) over the 100 iterations:
 
 ![output](https://user-images.githubusercontent.com/71625050/233223546-83f8a074-0058-4f54-8070-8a47cff390d5.png)
 
