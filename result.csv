@@ -1,0 +1,11 @@
+Kernel,c,gamma,degree,Accuracy
+rbf,6,scale,4,0.9675
+rbf,7,auto,5,0.9711666666666666
+rbf,7,auto,7,0.9645
+rbf,7,scale,2,0.9673333333333334
+rbf,5,auto,4,0.9646666666666667
+rbf,7,auto,6,0.967
+rbf,7,auto,1,0.9683333333333334
+rbf,5,auto,7,0.963
+rbf,6,auto,4,0.9638333333333333
+rbf,7,auto,5,0.9686666666666667
